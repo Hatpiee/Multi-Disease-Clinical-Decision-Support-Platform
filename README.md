@@ -1,4 +1,4 @@
-# AI-Powered Multi-Disease Prediction & Health Assistant Platform
+# Multi-Disease Clinical Decision Support Platform
 
 A full-stack clinical decision support system that predicts risk for four diseases using machine learning, explains predictions with SHAP, and delivers AI-generated recommendations through a RAG-powered health assistant.
 
